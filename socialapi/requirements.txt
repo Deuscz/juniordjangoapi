@@ -53,7 +53,7 @@ typed-ast==1.4.0
 ultimate-sitemap-parser==0.5
 urllib3==1.25.6
 w3lib==1.21.0
-websockets==8.0.2
+websockets==9.1
 wincertstore==0.2
 wrapt==1.11.2
 xlrd==1.2.0
